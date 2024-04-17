@@ -1,0 +1,15 @@
+D:\recuperacion\Rutas\bin\Debug\Rutas.exe.config
+D:\recuperacion\Rutas\bin\Debug\Rutas.exe
+D:\recuperacion\Rutas\bin\Debug\Rutas.pdb
+D:\recuperacion\Rutas\bin\Debug\EntityFramework.dll
+D:\recuperacion\Rutas\bin\Debug\EntityFramework.SqlServer.dll
+D:\recuperacion\Rutas\bin\Debug\EntityFramework.xml
+D:\recuperacion\Rutas\bin\Debug\EntityFramework.SqlServer.xml
+D:\recuperacion\Rutas\obj\Debug\Rutas.csproj.AssemblyReference.cache
+D:\recuperacion\Rutas\obj\Debug\Rutas.Form1.resources
+D:\recuperacion\Rutas\obj\Debug\Rutas.Properties.Resources.resources
+D:\recuperacion\Rutas\obj\Debug\Rutas.csproj.GenerateResource.cache
+D:\recuperacion\Rutas\obj\Debug\Rutas.csproj.CoreCompileInputs.cache
+D:\recuperacion\Rutas\obj\Debug\Rutas.csproj.Up2Date
+D:\recuperacion\Rutas\obj\Debug\Rutas.exe
+D:\recuperacion\Rutas\obj\Debug\Rutas.pdb
